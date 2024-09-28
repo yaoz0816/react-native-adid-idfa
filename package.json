@@ -1,6 +1,6 @@
 {
   "name": "react-native-adid-idfa",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "android:adid ios:idfa",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
